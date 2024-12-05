@@ -22,4 +22,3 @@
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juserh&layout=compact&theme=dracula)
