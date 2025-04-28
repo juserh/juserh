@@ -1,8 +1,10 @@
 ## It's me, juserh 👋
 
 <div align="center">
-
-
+  
+### Experience
+##### GDSC(Google Developer Student Clubs) Duksung : 2020.09~2021.08
+##### CORNER (Developer Student Club in Duksung univ.) : 2021.09~2023.02
 
 ### Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
